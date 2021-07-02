@@ -1,5 +1,7 @@
 # Bottom Up Features from Detectron2
 
+Author: Cong Vo
+
 ## Introduction
 
 This repo is to be used for object features extracted from Detectron2.
